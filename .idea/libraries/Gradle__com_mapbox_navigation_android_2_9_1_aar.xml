@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigation:android:2.9.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2a1f488c3584d6ff1cfcaf965f38f0e4/transformed/android-2.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2a1f488c3584d6ff1cfcaf965f38f0e4/transformed/android-2.9.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2a1f488c3584d6ff1cfcaf965f38f0e4/transformed/android-2.9.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/android/2.9.1/26a1ddfafb3607945f2662bce15c2482174f2458/android-2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/android/2.9.1/26a1ddfafb3607945f2662bce15c2482174f2458/android-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

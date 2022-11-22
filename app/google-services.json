@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "586824517633",
+    "project_id": "cycling-app-b84ff",
+    "storage_bucket": "cycling-app-b84ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586824517633:android:8c748b8cc4b5713c535800",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586824517633-67bpf8fj40v2fasfgal3inl7ce2p7883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYqEwjQdK4VEoBY2Z6oH3e6WB-g-QQGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586824517633-67bpf8fj40v2fasfgal3inl7ce2p7883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586824517633:android:28bb11b5b47ff3fc535800",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586824517633-67bpf8fj40v2fasfgal3inl7ce2p7883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYqEwjQdK4VEoBY2Z6oH3e6WB-g-QQGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586824517633-67bpf8fj40v2fasfgal3inl7ce2p7883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

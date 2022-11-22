@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigation:ui-dropin:2.9.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a296e8309b9c4b692020fe9c52e0494a/transformed/ui-dropin-2.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a296e8309b9c4b692020fe9c52e0494a/transformed/ui-dropin-2.9.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a296e8309b9c4b692020fe9c52e0494a/transformed/ui-dropin-2.9.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-dropin/2.9.1/288555a7abb13710d2c61cec1d53375887513e3c/ui-dropin-2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-dropin/2.9.1/e30a9ebebc1fda321f8189cd3091ff3b2ae19865/ui-dropin-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

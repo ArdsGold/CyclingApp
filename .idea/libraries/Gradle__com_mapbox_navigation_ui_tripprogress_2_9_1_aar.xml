@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigation:ui-tripprogress:2.9.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5dcc92606cd8d253958a59674cabd237/transformed/ui-tripprogress-2.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5dcc92606cd8d253958a59674cabd237/transformed/ui-tripprogress-2.9.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5dcc92606cd8d253958a59674cabd237/transformed/ui-tripprogress-2.9.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-tripprogress/2.9.1/13db701cc8a58b634022131a8a9b0a1905c06211/ui-tripprogress-2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-tripprogress/2.9.1/8663f393c14a8f846b5fbe0bf3b84412a9a66cb6/ui-tripprogress-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

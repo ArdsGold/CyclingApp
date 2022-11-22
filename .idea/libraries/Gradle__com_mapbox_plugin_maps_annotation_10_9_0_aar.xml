@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.plugin:maps-annotation:10.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f9595d5a387b1e29a23493c009df5692/transformed/maps-annotation-10.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9595d5a387b1e29a23493c009df5692/transformed/maps-annotation-10.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9595d5a387b1e29a23493c009df5692/transformed/maps-annotation-10.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-annotation/10.9.0/a1d78b844c86f33d9b4d06836132afaaf2d16ca7/maps-annotation-10.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-annotation/10.9.0/b8f2de5aaf813c2800d032c40667cfd502c46de0/maps-annotation-10.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

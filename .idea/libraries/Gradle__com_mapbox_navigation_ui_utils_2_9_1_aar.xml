@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.navigation:ui-utils:2.9.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c4f699966c6e5e4b7e2133079b598ab7/transformed/ui-utils-2.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c4f699966c6e5e4b7e2133079b598ab7/transformed/ui-utils-2.9.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c4f699966c6e5e4b7e2133079b598ab7/transformed/ui-utils-2.9.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-utils/2.9.1/4c03927a58b338693f1a7dc55fa447d752e79abc/ui-utils-2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.navigation/ui-utils/2.9.1/9c6293dc407dba48ef22cc870d2a0999cd586f81/ui-utils-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
